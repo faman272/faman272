@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fathurrahman</h1>
+<h1 align="left">Hi 👋, I'm Fathurrahman</h1>
+<img width="956" alt="Screenshot 2023-06-01 201746" src="https://github.com/faman272/faman272/assets/116134925/c9c8fbf3-f42f-41db-89db-c0b9749ed61c">
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
+
 
 - 🌱 I’m currently learning **React JS**
 
