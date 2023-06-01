@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathurrahman</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React JS*
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Web Developer**
 
