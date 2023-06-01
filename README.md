@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fathurrahman</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Frameworks & Design**
+- 🌱 I’m currently learning **React JS*
 
-- 💬 Ask me about **laravel, react, c++**
+- 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **fathurrahmansmkt@gmail.com**
 
