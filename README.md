@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Anything About Web Developer**
 
 - 📫 How to reach me **fathurrahmansmkt@gmail.com**
 
