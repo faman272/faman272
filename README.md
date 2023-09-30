@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello Folks!👋, I'm Fathurrahman</h1>
+<h1 align="left">Hello Friend..</h1>
 <img width="1000" height="150" alt="Screenshot 2023-06-01 201746" src="https://github.com/faman272/faman272/assets/116134925/97ba85a3-7427-40f1-a931-103231a5f2cc">
 
 👯 I’m looking to collaborate on project especially web development<br>🌱 I’m currently learning anything about web developer
