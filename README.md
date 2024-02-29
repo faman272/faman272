@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello Friend..</h1>
+<h1 align="left">Hello Friend</h1>
 <img width="1000" height="150" alt="Screenshot 2023-06-01 201746" src="https://github.com/faman272/faman272/assets/116134925/97ba85a3-7427-40f1-a931-103231a5f2cc">
 
 👯 I’m looking to collaborate on project especially web development<br>🌱 I’m currently learning anything about web developer
@@ -29,9 +29,4 @@
 
 ---
 Connect with me via : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fathurrahmansmkt) 
-<p align="center">
-<img width="50" alt="Screenshot 2023-06-01 201746" src="https://github.com/faman272/faman272/assets/116134925/f37065e6-969e-431b-8f14-abff0ca4adf6">
-<img width="80" alt="Screenshot 2023-06-01 201746" src="https://github.com/faman272/faman272/assets/116134925/b3b8f412-8d13-4877-8764-e426906827d3">
-<img width="80" alt="Screenshot 2023-06-01 201746" src="https://github.com/faman272/faman272/assets/116134925/4c160d40-c822-4d46-bc69-175f65018c5f"> <br>
-</p>
 
