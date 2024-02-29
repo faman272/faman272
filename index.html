@@ -1,12 +1,247 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Profile</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <style>
+        *,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    position: bottom right;
+    background-image: url('https://imagetolink.com/ib/9vNfnZsNU4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    color: white;
+    text-align: center;
+    width: 300px;
+    padding: 40px;
+    background-color: hsl(228, 15%, 15%);
+    border-radius: 40px;
+    box-shadow: 0px 4px 75px rgba(0, 0, 0, 0.25);
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media-group {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    justify-content: center;
+    list-style: none;
+    text-align: center;
+}
+
+
+.link a {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(149, 144, 144);
+    text-decoration: none;
+    margin: 10px;
+}
+
+.profile-img {
+    border-radius: 50%;
+    border: 2px solid yellow;
+    width: 130px;
+    height: 130px;
+}
+
+.nama {
+    font-family: 'Roboto', ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.skill {
+    margin: 5px;
+    color: rgb(149, 144, 144);
+}
+
+.desc {
+    font-family: 'Roboto', ;
+    font-style: normal;
+    font-size: 15px;
+    margin: 5px;
+}
+
+.link-email {
+    text-decoration: none;
+    color: rgb(244, 240, 240);
+}
+
+.button {
+    border-radius: 10px;
+    font-size: 15px;
+    line-height: 24px;
+    margin: 10px;
+    border: none;
+    width: 275px;
+    height: 44px;
+    background-color: hsl(162, 100%, 40%);
+}
+
+.rectangle {
+    position: absolute;
+    width: 390px;
+    left: 50%;
+    top: 87%;
+    transform: translate(-50%, -50%);
+}
+
+/* .elipse {
+    position: absolute;
+    width: 104px;
+    left: 660px;
+    top: 26%;
+    transform: translate(-50%, -50%);
+  } */
+
+/* Mobile Device*/
+@media (max-width: 768px) {
+    .container {
+        width: 100vw;
+        height: 100vh;
+        position: bottom right;
+        background-image: url(assets/background.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        color: white;
+        text-align: center;
+        width: 300px;
+        padding: 40px;
+        background-color: hsl(228, 15%, 15%);
+        border-radius: 40px;
+        box-shadow: 0px 4px 75px rgba(0, 0, 0, 0.25);
+    }
+
+    .social-media {
+        text-align: center;
+    }
+
+    .social-media-group {
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+        justify-content: center;
+        list-style: none;
+        text-align: center;
+    }
+
+    .link a {
+        text-align: center;
+        font-size: 30px;
+        color: rgb(149, 144, 144);
+        text-decoration: none;
+        margin: 10px;
+    }
+
+    .profile-img {
+        border-radius: 50%;
+        border: 2px solid yellow;
+        width: 130px;
+        height: 130px;
+    }
+
+    .nama {
+        font-family: 'Roboto', ;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 42px;
+    }
+
+    .skill {
+        margin: 5px;
+        color: rgb(149, 144, 144);
+    }
+
+    .desc {
+        font-family: 'Roboto', ;
+        font-style: normal;
+        font-size: 15px;
+        margin: 5px;
+    }
+
+    .link-email {
+        text-decoration: none;
+        color: rgb(244, 240, 240);
+    }
+
+    .button {
+        border-radius: 10px;
+        font-size: 15px;
+        line-height: 24px;
+        margin: 10px;
+        border: none;
+        width: 275px;
+        height: 44px;
+        background-color: hsl(162, 100%, 40%);
+    }
+
+    .rectangle {
+        position: absolute;
+        width: 390px;
+        left: 50%;
+        top: 82%;
+        transform: translate(-50%, -50%);
+    }
+}
+    </style>
 </head>
 <body>
-	Profile Page
+    <div class="container">
+        <div class="card">
+            <img class="profile-img" src="https://imagetolink.com/ib/CvuHGu67lH.png" alt="fathur"></img>
+            <div class="nama">Fathurrahman</div>
+            <div class="skill">Full Stack Developer</div>
+            <div class="desc">A young web developer who leverages React.js and Laravel in their projects. Currently exploring design concepts using Figma.</div>
+            <button class="button"><a href='https://gmail.com/fathurrahmansmkt@gmail.com' class='link-email'>fathurrahmansmkt@gmail.com</a></button>
+           
+            <div class='social-media'>
+                <ul class="social-media-group">
+                    <li class='link'><a href='https://instagram.com/faman272'><i class="ph ph-instagram-logo"></i></a></li>
+                    <li class='link'><a href='https://linkedin/'><i class="ph ph-linkedin-logo"></i></a></li>
+                    <li class='link'><a href='https://facebook.com/fathurrahman'><i class="ph ph-facebook-logo"></i></a></li>
+                    <li class='link'><a href='https://github.com/faman272'><i class="ph ph-github-logo"></i></a></li>
+                    <li class='link'><a href='https://dribble.com/faman272'><i class="ph ph-dribbble-logo"></i></a></li>
+                </ul>
+            </div>
+
+            <img src="https://imagetolink.com/ib/5ZAkBmQmud.png" alt="..." class='rectangle'/>
+        </div>
+</div>
 </body>
 </html>
