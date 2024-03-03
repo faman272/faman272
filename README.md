@@ -20,7 +20,7 @@
 </p>
 
 ```bash
-npx faman
+npx faman272
 ```
 <hr/>
 
