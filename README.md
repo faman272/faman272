@@ -2,22 +2,34 @@
 
 <h1 align="left">Hello Friend, I'am Fathurrahman <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/></h1>
 
+<img align="right" src="https://imagetolink.com/ib/ArdhzNX8sy.gif" width="300">
 
 [![Linkedin: anmol](https://img.shields.io/badge/-fathur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathur/)](https://www.linkedin.com/in/fathurrahmansmkt/)
 ![GitHub followers](https://img.shields.io/github/followers/faman272?label=Follow&style=social)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgeode-pea-abb.notion.site%2FHi-I-m-Fathurrahman-eec8dd3a2aa946a7b1d7309323d12dc6%3Fpvs%3D4)
 
 
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Linux, CyberSecurity & CTF
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love listening fantasy music<br>
 
-<img align="right" src="https://imagetolink.com/ib/ArdhzNX8sy.gif" width="300">
-<br>
+<p>
+   <img src="https://imagetolink.com/ib/Ady4lLVQo3.gif" width="25">   Run the following command in your console or terminal to connect with me
+</p>
+
+```bash
+npx faman
+```
+<hr/>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> A little more about me...  
 
 ```javascript
 const fathur = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript","Python", "PHP"],
+    code: ["Javascript", "Typescript","Python", "PHP", "CSS"],
     askMeAbout: ["web dev", "web security", "ui ux",],
     technologies: {
         backEnd: {
