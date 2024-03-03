@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hello Friend, I'am Fathurrahman <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/></h1>
+<h1 align="left">Hello Friend<img src="https://imagetolink.com/ib/NX80k3KXcP.gif" width="25" height="25"/>   I'am Fathurrahman</h1>
 
 <img align="right" src="https://imagetolink.com/ib/ArdhzNX8sy.gif" width="300">
 
