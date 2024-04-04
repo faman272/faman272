@@ -1,4 +1,4 @@
-
+![](https://i.imgur.com/waxVImv.png)
 
 <h1 align="left">Hello Friend<img src="https://imagetolink.com/ib/NX80k3KXcP.gif" width="25" height="25"/>   I'am Fathurrahman</h1>
 
@@ -13,7 +13,9 @@
 - :hourglass_flowing_sand: Exploring Linux, CyberSecurity & CTF
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love listening fantasy music<br>
+- :zap: Fun fact: I love listening fantasy music <br>
+
+
 
 <p>
    <img src="https://imagetolink.com/ib/Ady4lLVQo3.gif" width="25">   Run the following command in your console or terminal to connect with me
