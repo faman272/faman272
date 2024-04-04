@@ -5,6 +5,8 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-fathur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathur/)](https://www.linkedin.com/in/fathurrahmansmkt/)
 ![GitHub followers](https://img.shields.io/github/followers/faman272?label=Follow&style=social)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgeode-pea-abb.notion.site%2FHi-I-m-Fathurrahman-eec8dd3a2aa946a7b1d7309323d12dc6%3Fpvs%3D4)
+![bla](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 
 
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
