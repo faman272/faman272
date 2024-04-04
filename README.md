@@ -1,5 +1,3 @@
-![](https://i.imgur.com/waxVImv.png)
-
 <h1 align="left">Hello Friend<img src="https://imagetolink.com/ib/NX80k3KXcP.gif" width="25" height="25"/>   I'am Fathurrahman</h1>
 
 <img align="right" src="https://imagetolink.com/ib/ArdhzNX8sy.gif" width="300">
@@ -24,7 +22,9 @@
 ```bash
 npx faman272
 ```
-<hr/>
+
+![](https://i.imgur.com/waxVImv.png)
+
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> A little more about me...  
 
