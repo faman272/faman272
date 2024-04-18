@@ -1,6 +1,6 @@
-<h1 align="left">Hello Friend<img src="https://imagetolink.com/ib/NX80k3KXcP.gif" width="25" height="25"/>   I'am Fathurrahman</h1>
+<h1 align="left">Hello Friend<img src="https://github.com/faman272/faman272/blob/9b699de8796dd8c6fea8a51fb39f203d58ab1e32/wave.gif" width="25" height="25"/>   I'am Fathurrahman</h1>
 
-<img align="right" src="https://imagetolink.com/ib/ArdhzNX8sy.gif" width="300">
+<img align="right" src="https://github.com/faman272/faman272/blob/9b699de8796dd8c6fea8a51fb39f203d58ab1e32/profil-unscreen.gif" width="300">
 
 [![Linkedin: anmol](https://img.shields.io/badge/-fathur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathur/)](https://www.linkedin.com/in/fathurrahmansmkt/)
 ![GitHub followers](https://img.shields.io/github/followers/faman272?label=Follow&style=social)
@@ -18,7 +18,7 @@
 
 
 <p>
-   <img src="https://imagetolink.com/ib/Ady4lLVQo3.gif" width="25">   Run the following command in your console or terminal to connect with me
+   <img src="https://github.com/faman272/faman272/blob/c620617e480591649ce02ea4a0a4c816394a6c3f/down.gif" width="25">   Run the following command in your console or terminal to connect with me
 </p>
 
 ```bash
