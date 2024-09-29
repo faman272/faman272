@@ -13,7 +13,7 @@
 - :hourglass_flowing_sand: Exploring Linux, CyberSecurity & CTF
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I doing Magic<br>
+- :zap: Fun fact: I love doing Magic ♣<br>
 
 
 
